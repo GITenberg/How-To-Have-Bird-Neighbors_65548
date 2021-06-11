@@ -1,11 +1,16 @@
 _repo: How-To-Have-Bird-Neighbors_65548
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65548-h/images/cover.jpg
 creator:
   author:
     agent_name: Patteson, S. Louise
     gutenberg_agent_id: '53398'
     url: http://www.gutenberg.org/2009/agents/53398
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65548#How-To-Have-Bird-Neighbors
 gutenberg_issued: '2021-06-07'
 gutenberg_type: Text
 identifiers:
